@@ -3,5 +3,4 @@ title: Ecrire de la documentation pour des projets libres
 ---
 
 [Ma présentation pour les Jeudis du Libre de Bruxelles est publiée
-ici]
-(http://themr0c.github.com/themr0ctalks/2011-10-06-jeudisdulibre-bruxelles/)
+ici](http://themr0c.github.com/themr0ctalks/2011-10-06-jeudisdulibre-bruxelles/)
