@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ecrire de la documentation pour des projets libres
 ---
 
